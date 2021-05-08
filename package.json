@@ -14,7 +14,7 @@
       "nodemon": "^1.18.7",
       "reflect-metadata": "^0.1.12",
       "request": "^2.87.0",
-      "typeorm": "^0.2.7",
+      "typeorm": "^0.2.25",
       "uniqid": "^5.0.3",
       "xls-to-json-lc": "^0.3.4",
       "@types/node": "^10.12.11",
